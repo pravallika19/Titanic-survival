@@ -1,4 +1,3 @@
-## Content: Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
 ## Project Overview
